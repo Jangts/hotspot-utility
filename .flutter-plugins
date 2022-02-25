@@ -1,11 +1,12 @@
 # This is a generated file; do not edit or check into version control.
-firebase_analytics=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-5.0.16/
-firebase_analytics_web=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1/
-firebase_core=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
-firebase_core_web=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
-flutter_blue=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.2/
-share=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.5+4/
-url_launcher=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.5.0/
-url_launcher_linux=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+1/
-url_launcher_macos=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/
-url_launcher_web=/Users/ivan/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.2/
+firebase_analytics=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/firebase_analytics-5.0.16/
+firebase_analytics_web=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/firebase_analytics_web-0.1.1/
+firebase_core=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/firebase_core-0.4.5/
+firebase_core_web=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/firebase_core_web-0.1.1+2/
+flutter_blue=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue-0.7.3/
+share=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/share-0.6.5+4/
+url_launcher=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.7.10/
+url_launcher_linux=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_linux-0.0.1+4/
+url_launcher_macos=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-0.0.1+9/
+url_launcher_web=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.5+3/
+url_launcher_windows=/Users/ivan/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_windows-0.0.1+3/

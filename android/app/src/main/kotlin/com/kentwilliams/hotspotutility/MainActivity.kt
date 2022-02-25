@@ -1,4 +1,4 @@
-package com.kentwilliams.hotspotutility
+package com.microivan.hotspotutility
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

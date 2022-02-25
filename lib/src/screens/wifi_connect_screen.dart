@@ -1,3 +1,5 @@
+// ignore_for_file: must_call_super, deprecated_member_use
+
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_blue/flutter_blue.dart';

@@ -187,7 +187,7 @@ class _FindDevicesScreenState extends State<FindDevicesScreen> {
                                   'No Hotspots Found',
                                   style: Theme.of(context)
                                       .textTheme
-                                      .headline1
+                                      .headline6
                                       .copyWith(color: Colors.grey),
                                   textAlign: TextAlign.center,
                                 ),

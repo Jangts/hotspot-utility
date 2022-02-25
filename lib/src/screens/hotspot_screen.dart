@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
@@ -156,11 +158,9 @@ class _HotspotScreenState extends State<HotspotScreen> {
                 (c) =>
                     c.uuid.toString() == "00002a25-0000-1000-8000-00805f9b34fb",
                 orElse: () => null);
-        hotspotDiagnosticsChar = hotspotService.characteristics
-            .singleWhere(
-                (c) =>
-                    c.uuid.toString() == "b833d34f-d871-422c-bf9e-8e6ec117d57e",
-                orElse: () => null);
+        hotspotDiagnosticsChar = hotspotService.characteristics.singleWhere(
+            (c) => c.uuid.toString() == "b833d34f-d871-422c-bf9e-8e6ec117d57e",
+            orElse: () => null);
         publicKeyChar = hotspotService.characteristics.singleWhere(
             (c) => c.uuid.toString() == "0a852c59-50d3-4492-bfd3-22fe58a24f01",
             orElse: () => null);

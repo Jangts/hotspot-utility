@@ -25,8 +25,6 @@ class ParentWidget extends StatefulWidget {
 
 class _ParentWidgetState extends State<ParentWidget> {
   int _selectedIndex = 0;
-  static const TextStyle optionStyle =
-      TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static List<Widget> _widgetOptions = <Widget>[HotspotsScreen(), MoreScreen()];
 
   void _onItemTapped(int index) {
@@ -45,11 +43,11 @@ class _ParentWidgetState extends State<ParentWidget> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.bluetooth),
-            title: Text('Hotspots'),
+            label: 'Hotspots',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.menu),
-            title: Text('More'),
+            label: 'More',
           ),
         ],
         currentIndex: _selectedIndex,

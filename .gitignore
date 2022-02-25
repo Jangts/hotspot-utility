@@ -1,0 +1,4 @@
+build
+.vscode
+.dart_tool
+.idea
